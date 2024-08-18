@@ -1,6 +1,6 @@
 👋 Hi, I’m Giray Arfundalı
 
-👀 I’m interested in software development, mobile application development, game design, and web design.
+👀 I’m interested in software development, Mobile application development, Game design, and Web design.
 
 🌱 I'm currently learning JavaScript and React Native.
 
