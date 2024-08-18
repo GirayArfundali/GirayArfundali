@@ -8,6 +8,7 @@
 
 📫 How to reach me: You can reach me via LinkedIn or email.
 
+LinkedIn: [Giray Arfundalı](https://www.linkedin.com/in/giray-arfundalı-a66944231)      
 Email: [girayarfundal63@gmail.com](mailto:girayarfundal63@gmail.com)
 
 
