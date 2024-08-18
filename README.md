@@ -8,9 +8,6 @@
 
 📫 How to reach me: You can reach me via LinkedIn or email.
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love playing basketball and volleyball, and I’m always up for a game when I'm not coding!
 
 <!---
 GirayArfundali/GirayArfundali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
