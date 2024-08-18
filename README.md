@@ -1,4 +1,4 @@
-👋 Hi, I’m @GirayArfundali
+👋 Hi, I’m Giray Arfundalı
 
 👀 I’m interested in software development, mobile application development, game design, and web design.
 
