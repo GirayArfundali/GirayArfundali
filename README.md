@@ -2,9 +2,9 @@
 
 👀 I’m interested in software development, mobile application development, game design, and web design.
 
-🌱 I’m currently learning advanced Kotlin, Selenium for automated testing, and game development techniques.
+🌱 I'm currently learning JavaScript and React Native.
 
-💞️ I’m looking to collaborate on innovative software projects, mobile apps, or game development.
+💞️ I'm looking to collaborate on innovative, Mobile apps, and  Web design.
 
 📫 How to reach me: You can reach me via LinkedIn or email.
 
