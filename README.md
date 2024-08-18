@@ -8,6 +8,9 @@
 
 📫 How to reach me: You can reach me via LinkedIn or email.
 
+Email: [girayarfundal63@gmail.com](mailto:girayarfundal63@gmail.com)
+
+
 
 <!---
 GirayArfundali/GirayArfundali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
