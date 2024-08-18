@@ -8,15 +8,6 @@
 
 📫 How to reach me: You can reach me via LinkedIn or email.
 
-LinkedIn: (https://www.linkedin.com/in/giray-arfundalı-a66944231)
-
-Email: [girayarfundal63@gmail.com](mailto:girayarfundal63@gmail.com)
-
- 
-
-
-
-
 <!---
 GirayArfundali/GirayArfundali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
